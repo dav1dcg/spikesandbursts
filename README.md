@@ -9,6 +9,10 @@ Feel free to contact me if anything is unclear or if the code does not work as e
 
 # List of Jupyter notebooks
 
+## [action_potentials_phase_plots](Notebooks/action_potentials_phase_plots.ipynb)
+* Blog post: [Patch-clamp data analysis in Python: action potentials](https://spikesandbursts.wordpress.com/2022/05/03/patch-clamp-analysis-python-action-potentials/).
+* Example data: [pfc_pvalb_aps_02.abf](Data/pfc_pvalb_aps_02.abf)
+
 ## [action_potentials_bursts](Notebooks/action_potentials_bursts.ipynb)
 * Blog post: [Patch-clamp data analysis in Python: bursts of action potentials](https://spikesandbursts.wordpress.com/2023/08/24/patch-clamp-data-analysis-in-python-bursts/).
-* Data example: [stg_pd_bursts.abf](Data/stg_pd_bursts.abf).
+* Example data: [stg_pd_bursts.abf](Data/stg_pd_bursts.abf).
