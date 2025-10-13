@@ -1,6 +1,6 @@
 # Spikes and bursts
 
-Code from the neuroscience blog [Spikes and Bursts](https://spikesandbursts.wordpress.com/). Please visit the code to read the full tutorial of each notebook. The notebooks are tested to run with the corresponding files in the **Data** folder. 
+Code from the neuroscience blog [Spikes and Bursts](https://spikesandbursts.wordpress.com/). Please visit the blog to read the full tutorial of each notebook. The notebooks are tested to run with the corresponding files in the **Data** folder. 
 
 All external libraries used in these notebooks are credited to their respective authors and contributors, in accordance with their licenses and terms. 
 
