@@ -11,14 +11,22 @@ Feel free to contact me if anything is unclear or if the code does not work as e
 
 # List of Jupyter notebooks
 
-## [action_potentials_phase_plots](Notebooks/action_potentials_phase_plots.ipynb)
-* Blog post: [Patch-clamp data analysis in Python: action potentials](https://spikesandbursts.wordpress.com/2022/05/03/patch-clamp-analysis-python-action-potentials/).
-* Example data: [pfc_pvalb_aps_02.abf](Data/pfc_pvalb_aps_02.abf)
-
 ## [action_potentials_bursts](Notebooks/action_potentials_bursts.ipynb)
+* Analysis of bursts of action potentials.
 * Blog post: [Patch-clamp data analysis in Python: bursts of action potentials](https://spikesandbursts.wordpress.com/2023/08/24/patch-clamp-data-analysis-in-python-bursts/).
 * Example data: [stg_pd_bursts.abf](Data/stg_pd_bursts.abf).
 
+## [action_potentials_phase_plots](Notebooks/action_potentials_phase_plots.ipynb)
+* Analysis of phase-plane plots from action potentials. 
+* Blog post: [Patch-clamp data analysis in Python: action potentials](https://spikesandbursts.wordpress.com/2022/05/03/patch-clamp-analysis-python-action-potentials/).
+* Example data: [pfc_pvalb_aps_02.abf](Data/pfc_pvalb_aps_02.abf)
+
 ## [passive_membrane_properties](Notebooks/passive_membrane_properties.ipynb)
+* Analysis of resting membrane potential, input resistance, capacitance, and membrane time constant. 
 * Blog post: [Patch-clamp data analysis in Python: passive membrane properties](https://spikesandbursts.wordpress.com/2022/05/13/patch-clamp-data-analysis-python-passive-membrane-properties/])
 * Example data: [pfc_pyr_passive.abf](Data/passive_pyr_passive.abf) and [pfc_pyr_passive.csv](Data/pfc_pyr_passive.csv)
+
+## [voltage_sag](voltage_sag/passive_membrane_properties.ipynb)
+* Analysis of voltage sag from current-clamp recordings.
+* Blog post: [Patch-clamp data analysis in Python: passive membrane properties](https://spikesandbursts.wordpress.com/2022/05/13/patch-clamp-data-analysis-python-passive-membrane-properties/])
+* Example data: Files that start with **pfc_pyr_aps**. 
