@@ -26,6 +26,11 @@ Feel free to contact me if anything is unclear or if the code does not work as e
 * Blog post: [Patch-clamp data analysis in Python: passive membrane properties](https://spikesandbursts.wordpress.com/2022/05/13/patch-clamp-data-analysis-python-passive-membrane-properties/])
 * Example data: [pfc_pyr_passive.abf](Data/passive_pyr_passive.abf) and [pfc_pyr_passive.csv](Data/pfc_pyr_passive.csv)
 
+## [time-series_animations](Notebooks/time-series/animations.ipynb)
+* Animate time-series data.
+* Blog post: [Patch-clamp data analysis in Python: animate time series data](https://spikesandbursts.wordpress.com/2024/01/04/patch-clamp-data-analysis-animate-time-series/). 
+* Example data: [pfc_lhx6_cell-attached.txt](Data/pfc_lhx6_cell-attached.txt), [pfc_lhx6_cell-attached.abf](Data/pfc_lhx6_cell-attached.abf), [mesc_nkx2_aps.abf](Data/mesc_nkx2_aps.abf)
+
 ## [voltage_sag](Notebooks/voltage_sag.ipynb)
 * Analysis of voltage sag from current-clamp recordings.
 * Blog post: [Patch-clamp data analysis in Python: passive membrane properties](https://spikesandbursts.wordpress.com/2022/05/13/patch-clamp-data-analysis-python-passive-membrane-properties/])
