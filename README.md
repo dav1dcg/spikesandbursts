@@ -26,6 +26,11 @@ Feel free to contact me if anything is unclear or if the code does not work as e
 * Blog post: [Patch-clamp data analysis in Python: passive membrane properties](https://spikesandbursts.wordpress.com/2022/05/13/patch-clamp-data-analysis-python-passive-membrane-properties/])
 * Example data: [pfc_pyr_passive.abf](Data/passive_pyr_passive.abf) and [pfc_pyr_passive.csv](Data/pfc_pyr_passive.csv)
 
+## [passive_membrane_properties](Notebooks/passive_membrane_properties_efel.ipynb)
+* Analysis of passive membrane properties with the [eFEL library](https://github.com/BlueBrain/eFEL).  
+* Blog post: [Patch-clamp data analysis in Python: passive membrane properties](https://spikesandbursts.wordpress.com/2022/05/13/patch-clamp-data-analysis-python-passive-membrane-properties/])
+* Example data: [pfc_pyr_aps_03.abf](Data/pfc_pyr_aps_03.abf)
+
 ## [time-series_animations](Notebooks/time-series/animations.ipynb)
 * Animate time-series data.
 * Blog post: [Patch-clamp data analysis in Python: animate time series data](https://spikesandbursts.wordpress.com/2024/01/04/patch-clamp-data-analysis-animate-time-series/). 
@@ -35,3 +40,6 @@ Feel free to contact me if anything is unclear or if the code does not work as e
 * Analysis of voltage sag from current-clamp recordings.
 * Blog post: [Patch-clamp data analysis in Python: passive membrane properties](https://spikesandbursts.wordpress.com/2022/05/13/patch-clamp-data-analysis-python-passive-membrane-properties/])
 * Example data: Files that start with **pfc_pyr_aps**. 
+
+# More Jupyter notebooks
+* [**neuro-notebook-templates**](https://github.com/dav1dcg/neuro-notebook-templates). Jupyter notebook templates for processing and analyzing neuroscience data.
