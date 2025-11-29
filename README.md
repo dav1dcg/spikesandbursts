@@ -16,7 +16,12 @@ Feel free to contact me if anything is unclear or if the code does not work as e
 * Blog post: [Patch-clamp data analysis in Python: bursts of action potentials](https://spikesandbursts.wordpress.com/2023/08/24/patch-clamp-data-analysis-in-python-bursts/).
 * Example data: [stg_pd_bursts.abf](Data/stg_pd_bursts.abf).
 
-## [action_potentials_phase_plots](Notebooks/action_potentials_phase_plots.ipynb)
+## [action_potentials_ipfx](Notebooks/action_potentials_ipfx.ipynb)
+* Analysis of action potentials with the [IPFX package](https://github.com/AllenInstitute/ipfx) from the Allen Institute for Brain Science.
+* Blog post: [Patch-clamp data analysis in Python: action potentials](https://spikesandbursts.wordpress.com/2022/05/03/patch-clamp-analysis-python-action-potentials/).
+* Example data: [pfc_pvalb_aps_01.abf](Data/pfc_pvalb_aps_01.abf), [pfc_pvalb_aps_01.csv](Data/pfc_pvalb_aps_02.csv), [pfc_pvalb_aps_02.abf](Data/pfc_pvalb_aps_02.abf).
+
+## [action_potentials_phase_plots](Notebooks/action_potentials_phase_plot.ipynb)
 * Analysis of phase-plane plots from action potentials. 
 * Blog post: [Patch-clamp data analysis in Python: action potentials](https://spikesandbursts.wordpress.com/2022/05/03/patch-clamp-analysis-python-action-potentials/).
 * Example data: [pfc_pvalb_aps_02.abf](Data/pfc_pvalb_aps_02.abf)
@@ -31,7 +36,7 @@ Feel free to contact me if anything is unclear or if the code does not work as e
 * Blog post: [Patch-clamp data analysis in Python: passive membrane properties](https://spikesandbursts.wordpress.com/2022/05/13/patch-clamp-data-analysis-python-passive-membrane-properties/])
 * Example data: [pfc_pyr_aps_03.abf](Data/pfc_pyr_aps_03.abf)
 
-## [time-series_animations](Notebooks/time-series/animations.ipynb)
+## [time-series_animations](Notebooks/time-series/time-series_animations.ipynb)
 * Animate time-series data.
 * Blog post: [Patch-clamp data analysis in Python: animate time series data](https://spikesandbursts.wordpress.com/2024/01/04/patch-clamp-data-analysis-animate-time-series/). 
 * Example data: [pfc_lhx6_cell-attached.txt](Data/pfc_lhx6_cell-attached.txt), [pfc_lhx6_cell-attached.abf](Data/pfc_lhx6_cell-attached.abf), [mesc_nkx2_aps.abf](Data/mesc_nkx2_aps.abf)
