@@ -16,6 +16,11 @@ Feel free to contact me if anything is unclear or if the code does not work as e
 * Blog post: [Patch-clamp data analysis in Python: bursts of action potentials](https://spikesandbursts.wordpress.com/2023/08/24/patch-clamp-data-analysis-in-python-bursts/).
 * Example data: [stg_pd_bursts.abf](Data/stg_pd_bursts.abf).
 
+## [action_potentials_efel](Notebooks/action_potentials_efel.ipynb)
+* Analysis of action potentials with the [eFEL package](https://github.com/BlueBrain/eFEL) from the Blue Brain Project.
+* Blog post: [Patch-clamp data analysis in Python: action potentials](https://spikesandbursts.wordpress.com/2022/05/03/patch-clamp-analysis-python-action-potentials/).
+* Example data: [pfc_pvalb_aps_01.abf](Data/pfc_pvalb_aps_01.abf), [pfc_pvalb_aps_01.csv](Data/pfc_pvalb_aps_02.csv).
+
 ## [action_potentials_ipfx](Notebooks/action_potentials_ipfx.ipynb)
 * Analysis of action potentials with the [IPFX package](https://github.com/AllenInstitute/ipfx) from the Allen Institute for Brain Science.
 * Blog post: [Patch-clamp data analysis in Python: action potentials](https://spikesandbursts.wordpress.com/2022/05/03/patch-clamp-analysis-python-action-potentials/).
