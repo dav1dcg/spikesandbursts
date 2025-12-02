@@ -41,6 +41,11 @@ Feel free to contact me if anything is unclear or if the code does not work as e
 * Blog post: [Patch-clamp data analysis in Python: passive membrane properties](https://spikesandbursts.wordpress.com/2022/05/13/patch-clamp-data-analysis-python-passive-membrane-properties/])
 * Example data: [pfc_pyr_aps_03.abf](Data/pfc_pyr_aps_03.abf)
 
+## [postsynaptic_events](Notebooks/postsynaptic_events.ipynb)
+* Analysis of postsynaptic currents.  
+* Blog post: [Patch-clamp data analysis in Python: passive membrane properties](https://spikesandbursts.wordpress.com/2022/07/03/patch-clamp-data-analysis-in-python-postsynaptic-currents-and-potentials/)
+* Example data: [pfc_sst_epscs.abf](Data/pfc_sst_epscs.abf), [pfc_sst_epscs.csv](Data/pfc_sst_epscs.csv)
+
 ## [time-series_animations](Notebooks/time-series/time-series_animations.ipynb)
 * Animate time-series data.
 * Blog post: [Patch-clamp data analysis in Python: animate time series data](https://spikesandbursts.wordpress.com/2024/01/04/patch-clamp-data-analysis-animate-time-series/). 
